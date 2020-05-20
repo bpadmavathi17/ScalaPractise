@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95dc1d6c-1042-4357-b330-cf4c871ec3fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z2CUeBC1mj4bLm2S4rpMgpq1ve" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BasicsPractise" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\padbhask\IdeaProjects\one\src\exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WhatsAFunction">
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2OOP.Inheritance" />
+      <module name="BasicsPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ListTest" />
+      <module name="BasicsPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodNotations" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2OOP.MethodNotations" />
+      <module name="BasicsPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2OOP.OOBasics" />
+      <module name="BasicsPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatsAFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3.fp.WhatsAFunction" />
+      <module name="BasicsPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3.fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhatsAFunction" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.MethodNotations" />
+        <item itemvalue="Application.OOBasics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95dc1d6c-1042-4357-b330-cf4c871ec3fc" name="Default Changelist" comment="" />
+      <created>1584027821712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584027821712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1589956586348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589956586348" />
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1585209548393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585209548393" />
+    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1585209548392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585209548392" />
+    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1585209548392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585209548392" />
+    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1585209548392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585209548392" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589956961363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589956961363" />
+    <state x="65" y="88" key="new project wizard" timestamp="1588956376554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="88" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588956376554" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584437342859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584437342859" />
+  </component>
+</project>
